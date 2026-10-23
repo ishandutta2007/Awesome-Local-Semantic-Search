@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Local-Semantic-Search/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Local-Semantic-Search?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Local-Semantic-Search/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Local-Semantic-Search?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Local-Semantic-Search/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Local-Semantic-Search?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Local-Semantic-Search/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -58,45 +58,45 @@ The global enterprise and cognitive search market is estimated at **$5.5B–$7.5
 
 ## 💻 Open-Source GitHub Projects
 
-*Open-source projects ranked in descending order by GitHub Stars.*
+*Open-source projects ranked in descending order by GitHub_Stars.*
 
-- **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
+- **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
   **Deep document understanding & local RAG engine.** An open-source RAG engine based on deep document understanding that performs multimodal semantic search, table understanding, and citation-grounded retrieval across complex PDFs, slides, and office formats with zero hallucination.
 
-- **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** [![GitHub stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
+- **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** [![GitHub_Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
   **All-in-one local desktop AI & document search.** A private, full-stack desktop application that turns any document, PDF, media, or directory into a searchable vector index with local LLM support (Ollama, LM Studio, LocalAI) and built-in vector database management.
 
-- **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
+- **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
   **Personal AI assistant and local knowledge search.** An open-source, personal semantic search assistant running locally. Indexes your local Markdown notes, PDFs, org-mode files, GitHub repositories, and image directories for instantaneous natural language retrieval and agentic workflows.
 
-- **[Qdrant](https://github.com/qdrant/qdrant)** [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)  
+- **[Qdrant](https://github.com/qdrant/qdrant)** [![GitHub_Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)  
   **High-performance vector search engine & database.** Production-ready vector similarity search engine written in Rust. Provides extended filtering support, payload storage, and fast local or self-hosted deployment for on-device semantic search pipelines.
 
-- **[Chroma](https://github.com/chroma-core/chroma)** [![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers)  
+- **[Chroma](https://github.com/chroma-core/chroma)** [![GitHub_Stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers)  
   **AI-native open-source embedding database.** Designed from the ground up for Python and JavaScript developers to embed search, semantic memory, and document indexing directly into local applications with zero external infrastructure.
 
-- **[LanceDB](https://github.com/lancedb/lancedb)** [![GitHub stars](https://img.shields.io/github/stars/lancedb/lancedb?style=social&color=white)](https://github.com/lancedb/lancedb/stargazers)  
+- **[LanceDB](https://github.com/lancedb/lancedb)** [![GitHub_Stars](https://img.shields.io/github/stars/lancedb/lancedb?style=social&color=white)](https://github.com/lancedb/lancedb/stargazers)  
   **Developer-friendly, serverless vector database.** Built on top of the Lance columnar format, LanceDB delivers ultra-fast local disk-based vector search and hybrid FTS without requiring a standalone daemon or persistent service.
 
-- **[Reor](https://github.com/reorproject/reor)** [![GitHub stars](https://img.shields.io/github/stars/reorproject/reor?style=social&color=white)](https://github.com/reorproject/reor/stargazers)  
+- **[Reor](https://github.com/reorproject/reor)** [![GitHub_Stars](https://img.shields.io/github/stars/reorproject/reor?style=social&color=white)](https://github.com/reorproject/reor/stargazers)  
   **Local-first AI note-taking and semantic search app.** An open-source desktop PKM application built on Llama.cpp and Transformers.js that automatically embeds all notes, links related thoughts semantically, and enables local offline Q&A.
 
-- **[DigUp](https://github.com/ARahim3/DigUp)** [![GitHub stars](https://img.shields.io/github/stars/ARahim3/DigUp?style=social&color=white)](https://github.com/ARahim3/DigUp/stargazers)  
+- **[DigUp](https://github.com/ARahim3/DigUp)** [![GitHub_Stars](https://img.shields.io/github/stars/ARahim3/DigUp?style=social&color=white)](https://github.com/ARahim3/DigUp/stargazers)  
   **Multimodal local search app for desktop.** Built on Google DeepMind's **EmbeddingGemma 2**, mapping text, images, screenshots, audio, and video into a unified vector space. Runs 100% locally on macOS, Linux, and Windows with optional natural language code search.
 
-- **[SeaGOAT](https://github.com/kantord/SeaGOAT)** [![GitHub stars](https://img.shields.io/github/stars/kantord/SeaGOAT?style=social&color=white)](https://github.com/kantord/SeaGOAT/stargazers)  
+- **[SeaGOAT](https://github.com/kantord/SeaGOAT)** [![GitHub_Stars](https://img.shields.io/github/stars/kantord/SeaGOAT?style=social&color=white)](https://github.com/kantord/SeaGOAT/stargazers)  
   **Local-first semantic code search engine for the terminal.** Leverages on-device vector embeddings (ChromaDB + SentenceTransformers) to enable natural language querying across git repositories directly from command line interfaces.
 
-- **[Recall](https://github.com/pdstn12/Recall)** [![GitHub stars](https://img.shields.io/github/stars/pdstn12/Recall?style=social&color=white)](https://github.com/pdstn12/Recall/stargazers)  
+- **[Recall](https://github.com/pdstn12/Recall)** [![GitHub_Stars](https://img.shields.io/github/stars/pdstn12/Recall?style=social&color=white)](https://github.com/pdstn12/Recall/stargazers)  
   **Linux-native multimodal semantic retrieval with OCR.** Built on EmbeddingGemma 2 via llama.cpp. Adds OCR for scanned PDFs and screenshots, presentation decks, spreadsheets, and precise deep-linking into document pages and video timestamps.
 
-- **[vstash](https://github.com/stffns/vstash)** [![GitHub stars](https://img.shields.io/github/stars/stffns/vstash?style=social&color=white)](https://github.com/stffns/vstash/stargazers)  
+- **[vstash](https://github.com/stffns/vstash)** [![GitHub_Stars](https://img.shields.io/github/stars/stffns/vstash?style=social&color=white)](https://github.com/stffns/vstash/stargazers)  
   **Lightweight document memory with hybrid search.** FastEmbed + sqlite-vec in a single zero-dependency SQLite database file. Implements Reciprocal Rank Fusion (BM25 + vector similarity) and optional local LLM question answering.
 
-- **[dokosa](https://github.com/sile/dokosa)** [![GitHub stars](https://img.shields.io/github/stars/sile/dokosa?style=social&color=white)](https://github.com/sile/dokosa/stargazers)  
+- **[dokosa](https://github.com/sile/dokosa)** [![GitHub_Stars](https://img.shields.io/github/stars/sile/dokosa?style=social&color=white)](https://github.com/sile/dokosa/stargazers)  
   **Command-line semantic search tool for Git repositories.** An offline CLI tool written in Rust to index and search codebases and commit histories semantically with local embedding generation.
 
-- **[cairnsearch](https://github.com/smwaqas89/cairnsearch)** [![GitHub stars](https://img.shields.io/github/stars/smwaqas89/cairnsearch?style=social&color=white)](https://github.com/smwaqas89/cairnsearch/stargazers)  
+- **[cairnsearch](https://github.com/smwaqas89/cairnsearch)** [![GitHub_Stars](https://img.shields.io/github/stars/smwaqas89/cairnsearch?style=social&color=white)](https://github.com/smwaqas89/cairnsearch/stargazers)  
   **Research-backed hybrid search and local RAG system.** SQLite FTS5 BM25 combined with Ollama dense embeddings, cross-encoder reranking, and built-in PII detection safeguards for private document archives.
 
 ---
@@ -116,7 +116,7 @@ Contributions are warmly welcome! To propose additions or updates:
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a descriptive branch (`git checkout -b add-my-search-project`).
-3. 📝 Update `README.md` following the existing format (include name, links, description, star badges, and pricing details if SaaS).
+3. 📝 Update `README.md` following the existing format (include name, links, description, Stars_Badges, and pricing details if SaaS).
 4. 🚀 Submit a **Pull Request** with a brief summary of the project.
 
 ---
