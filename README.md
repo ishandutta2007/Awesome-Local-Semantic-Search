@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -40,31 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global enterprise and cognitive search market is estimated at **$5.5B–$7.5B in 2025/2026** and projected to surpass **$14B+ by the early 2030s** at an 8–10% CAGR (with generative AI and semantic retrieval sub-segments growing above 15%). The sector is **moderately fragmented**: cloud hyper-scalers (Microsoft, Google, AWS) capture broad corporate infrastructure workloads, but independent AI search engines and vertical cognitive specialists maintain enduring moats around complex multi-source connectors, zero-retention enterprise privacy, and high-precision financial/legal knowledge retrieval rather than tilting into a single "winner-take-all" monopoly.
+
+
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Glean](https://www.glean.com/)**  
-
-  Enterprise search and workplace assistant that indexes connected SaaS applications (Slack, Google Drive, Confluence, Jira, etc.) and delivers answers with citations. **Cloud-based**—data is indexed on Glean's infrastructure. Best for organizations wanting unified search across cloud tools without managing infrastructure.
-
-
-
-- **[Notion AI](https://www.notion.com/product/ai)**  
-
-  AI layer on top of Notion workspaces for Q&A and content generation. **Cloud-only**—limited to content stored in Notion. Best for teams already using Notion as their knowledge base.
-
-
-
-- **[Hebbia](https://www.hebbia.ai/)**  
-
-  AI-powered research platform for financial and legal document analysis. Cloud-based, enterprise-focused. Best for professionals analyzing large document sets where local processing is impractical.
-
-
-
-- **[Coveo](https://www.coveo.com/)**  
-
-  AI-powered relevance platform for enterprise search across cloud and on-premise sources. Commercial, enterprise-priced. Best for large organizations with complex, multi-source search requirements.
+| Platform | Company Scale (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Notion AI](https://www.notion.com/product/ai)** | **~$11B–$12B valuation** (~$600M ARR) | **$20/member/month** (billed annually on Business plan) or $24/member/month (monthly) | **20 complimentary one-time AI responses** across workspace on Free/Plus tiers; no perpetual free AI allowance | AI layer for Notion workspaces covering Enterprise Search, meeting notes, research, and Q&A. Limited to workspace-connected knowledge. |
+| **[Glean](https://www.glean.com/)** | **$7.2B valuation** (~$300M ARR) | **~$45/user/month** (estimated starting core seat license; contracts start at $25,000–$50,000/year minimum) | **No self-service free tier or trial**; vendor evaluations require sales-gated custom proof-of-concept (POC) demos | Cloud enterprise search and workplace assistant connecting across Slack, Google Drive, Jira, and enterprise apps. |
+| **[Hebbia](https://www.hebbia.ai/)** | **$700M valuation** (~$30M–$48M ARR) | **$3,000/seat/year** (~$250/month, starting Lite/Consumer tier; Pro analyst tier at ~$10,000/seat/year) | **No self-service free tier or public trial**; pre-contract access strictly limited to negotiated sales pilots | AI research and matrix analysis platform tailored for finance, private equity, and legal document workflows. |
+| **[Coveo](https://www.coveo.com/)** | **~$250M CAD market cap** (~$148M–$160M ARR) | **~$600/month** (estimated entry Base plan; standard ecosystem packages start at ~$990/month) | **14-day free trial** (desktop web setup, no credit card required); no ongoing perpetual free tier | AI relevance and search platform connecting multi-cloud, intranet, and enterprise systems at scale. |
 
 
 
